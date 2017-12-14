@@ -1,0 +1,14 @@
+[
+  {
+    "CLASS_ID": "1",
+    "STANDARD": "PREKG",
+    "SECTION": "A",
+    "CLASS_AND_SECTION": "PREKG-A"
+  },
+  {
+    "CLASS_ID": "2",
+    "STANDARD": "PREKG",
+    "SECTION": "B",
+    "CLASS_AND_SECTION": "PREKG-B"
+  }
+]

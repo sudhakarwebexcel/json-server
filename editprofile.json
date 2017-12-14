@@ -1,0 +1,24 @@
+[
+  {
+    "CLASS_ID": "1",
+    "STD": "PREKG",
+    "SEC": "A",
+    "CLASS_SECTION": "PREKG-A",
+    "NAME": "AWeqwae",
+    "FATHER_NAME": "qweqwae",
+    "ADMISSION_ID": "KG/2017/53",
+    "sno": 1,
+    "STD_SEC": "PREKG-A"
+  },
+  {
+    "CLASS_ID": "1",
+    "STD": "PREKG",
+    "SEC": "A",
+    "CLASS_SECTION": "PREKG-A",
+    "NAME": "srtde",
+    "FATHER_NAME": "M",
+    "ADMISSION_ID": "KG/2017/54",
+    "sno": 2,
+    "STD_SEC": "PREKG-A"
+  }
+]

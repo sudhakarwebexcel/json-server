@@ -1,0 +1,22 @@
+[
+  {
+    "ADMISSION_ID": "KG/2017/56",
+    "CLASSSEC": null,
+    "NAME": "Anand",
+    "FATHER_NAME": "KGS",
+    "GENDER": "Male",
+    "AMOUNT": "232",
+    "REMARKS": "232",
+    "INSERT_DATE": "2017-11-10 14:48:00"
+  },
+  {
+    "ADMISSION_ID": "KG/2017/55",
+    "CLASSSEC": null,
+    "NAME": "Praburajan",
+    "FATHER_NAME": "gdfgdf",
+    "GENDER": "Male",
+    "AMOUNT": "100",
+    "REMARKS": "asfdsf",
+    "INSERT_DATE": "2017-11-14 20:09:21"
+  }
+]

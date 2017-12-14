@@ -1,0 +1,26 @@
+{
+  "0": {
+    "STD_SEC": "PREKG-A",
+    "TOT_STUDENT": "5",
+    "TOT_AMOUNT": "112344.00",
+    "TOT_VALUE": 561720,
+    "SEC_PAID": "210166",
+    "BALANCE": 351554
+  },
+  "1": {
+    "STD_SEC": "PREKG-B",
+    "TOT_STUDENT": "1",
+    "TOT_AMOUNT": "112344.00",
+    "TOT_VALUE": 112344,
+    "SEC_PAID": null,
+    "BALANCE": 112344
+  },
+  "2": {
+    "STD_SEC": "LKG-A",
+    "TOT_STUDENT": "2",
+    "TOT_AMOUNT": "61523.00",
+    "TOT_VALUE": 123046,
+    "SEC_PAID": "59155",
+    "BALANCE": 63891
+  }
+}

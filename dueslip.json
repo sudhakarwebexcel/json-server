@@ -1,0 +1,26 @@
+[
+  {
+    "CLASS_ID": "1",
+    "STD": "PREKG",
+    "SEC": "A",
+    "NAME": "AWeqwae",
+    "FATHER_NAME": "qweqwae",
+    "ADMISSION_ID": "KG/2017/53",
+    "sno": 1,
+    "STD_SEC": "PREKG-A",
+    "TOT_AMOUNT": "112344.00",
+    "TOT_PAID": "36106"
+  },
+  {
+    "CLASS_ID": "1",
+    "STD": "PREKG",
+    "SEC": "A",
+    "NAME": "srtde",
+    "FATHER_NAME": "M",
+    "ADMISSION_ID": "KG/2017/54",
+    "sno": 2,
+    "STD_SEC": "PREKG-A",
+    "TOT_AMOUNT": "112344.00",
+    "TOT_PAID": "174060"
+  }
+]

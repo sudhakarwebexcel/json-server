@@ -1,0 +1,28 @@
+[
+  {
+    "SNO": 2,
+    "ADNO": "KG/2017/53",
+    "NAME": "AWeqwae",
+    "FATHER_NAME": "qweqwae",
+    "STD_SEC": "PREKG-A",
+    "TOT_BAL": 31793.2,
+    "DETAILS": [
+      {
+        "FEE_HEAD": "qqqq",
+        "FEE_TYPE": "Annual",
+        "FEE_INTERVAL": "1",
+        "FEE_INSTALMENT": "1233.000000",
+        "LAST_PAID": "A1",
+        "BALANCE": "1233"
+      },
+      {
+        "FEE_HEAD": "wwwww",
+        "FEE_TYPE": "Monthly",
+        "FEE_INTERVAL": "10",
+        "FEE_INSTALMENT": "11111.100000",
+        "LAST_PAID": "APR",
+        "BALANCE": 30560.2
+      }
+    ]
+  }
+]
